@@ -37,6 +37,7 @@ Um script robusto que provisiona toda a árvore de diretórios e separação por
 ## 📁 Estrutura de Pastas
 
 * `Desafio - Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões`: criar_user.sh | iac1.sh
+* `Desafio - Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)`: script-iac2.sh
 
 ---
 
