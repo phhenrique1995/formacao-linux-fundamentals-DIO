@@ -32,6 +32,9 @@ Um script robusto que provisiona toda a árvore de diretórios e separação por
 - **Usuários:** Adiciona usuários específicos a cada grupo com diretórios home automáticos.
 - **Permissões:** Define o dono como `root` e vincula cada diretório ao seu respectivo grupo, bloqueando o acesso de usuários não autorizados.
 
+### 🔹 Script 3: Script de Provisionamento de um Servidor Web (Apache)
+Focado na criação de um Script de Provisionamento de um Servidor Web (Apache)
+
 ---
 
 ## 📁 Estrutura de Pastas
